@@ -1,0 +1,245 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'clk'
+Slack : 0.085
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'CONTADORTRC:inst|synthesized_var_for_JKFF_inst17'
+Slack : 0.292
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'CONTADORTRC:inst|synthesized_var_for_SYNTHESIZED_WIRE_20'
+Slack : 0.293
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'CONTADORTRC:inst|synthesized_var_for_JKFF_inst3'
+Slack : 0.317
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'CONTADORTRC:inst|synthesized_var_for_SYNTHESIZED_WIRE_20'
+Slack : -0.185
+TNS   : -0.185
+
+Type  : Slow 1200mV 85C Model Hold 'CONTADORTRC:inst|synthesized_var_for_JKFF_inst17'
+Slack : 0.032
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'clk'
+Slack : 0.041
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'CONTADORTRC:inst|synthesized_var_for_JKFF_inst3'
+Slack : 0.384
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'CONTADORTRC:inst|synthesized_var_for_JKFF_inst3'
+Slack : -1.048
+TNS   : -1.048
+
+Type  : Slow 1200mV 85C Model Recovery 'CONTADORTRC:inst|synthesized_var_for_JKFF_inst17'
+Slack : -0.933
+TNS   : -0.933
+
+Type  : Slow 1200mV 85C Model Recovery 'CONTADORTRC:inst|synthesized_var_for_SYNTHESIZED_WIRE_20'
+Slack : -0.726
+TNS   : -0.726
+
+Type  : Slow 1200mV 85C Model Recovery 'clk'
+Slack : 0.342
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'clk'
+Slack : -1.062
+TNS   : -1.062
+
+Type  : Slow 1200mV 85C Model Removal 'CONTADORTRC:inst|synthesized_var_for_SYNTHESIZED_WIRE_20'
+Slack : 0.054
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'CONTADORTRC:inst|synthesized_var_for_JKFF_inst17'
+Slack : 0.278
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'CONTADORTRC:inst|synthesized_var_for_JKFF_inst3'
+Slack : 0.404
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -4.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CONTADORTRC:inst|synthesized_var_for_JKFF_inst17'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CONTADORTRC:inst|synthesized_var_for_JKFF_inst3'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CONTADORTRC:inst|synthesized_var_for_SYNTHESIZED_WIRE_20'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Setup 'clk'
+Slack : 0.186
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'CONTADORTRC:inst|synthesized_var_for_JKFF_inst17'
+Slack : 0.314
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'CONTADORTRC:inst|synthesized_var_for_SYNTHESIZED_WIRE_20'
+Slack : 0.318
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'CONTADORTRC:inst|synthesized_var_for_JKFF_inst3'
+Slack : 0.398
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'CONTADORTRC:inst|synthesized_var_for_SYNTHESIZED_WIRE_20'
+Slack : -0.163
+TNS   : -0.163
+
+Type  : Slow 1200mV 0C Model Hold 'clk'
+Slack : -0.025
+TNS   : -0.025
+
+Type  : Slow 1200mV 0C Model Hold 'CONTADORTRC:inst|synthesized_var_for_JKFF_inst17'
+Slack : 0.038
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'CONTADORTRC:inst|synthesized_var_for_JKFF_inst3'
+Slack : 0.341
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'CONTADORTRC:inst|synthesized_var_for_JKFF_inst3'
+Slack : -0.835
+TNS   : -0.835
+
+Type  : Slow 1200mV 0C Model Recovery 'CONTADORTRC:inst|synthesized_var_for_JKFF_inst17'
+Slack : -0.734
+TNS   : -0.734
+
+Type  : Slow 1200mV 0C Model Recovery 'CONTADORTRC:inst|synthesized_var_for_SYNTHESIZED_WIRE_20'
+Slack : -0.555
+TNS   : -0.555
+
+Type  : Slow 1200mV 0C Model Recovery 'clk'
+Slack : 0.490
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'clk'
+Slack : -1.040
+TNS   : -1.040
+
+Type  : Slow 1200mV 0C Model Removal 'CONTADORTRC:inst|synthesized_var_for_SYNTHESIZED_WIRE_20'
+Slack : 0.050
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'CONTADORTRC:inst|synthesized_var_for_JKFF_inst17'
+Slack : 0.245
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'CONTADORTRC:inst|synthesized_var_for_JKFF_inst3'
+Slack : 0.355
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -4.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CONTADORTRC:inst|synthesized_var_for_JKFF_inst17'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CONTADORTRC:inst|synthesized_var_for_JKFF_inst3'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CONTADORTRC:inst|synthesized_var_for_SYNTHESIZED_WIRE_20'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Setup 'CONTADORTRC:inst|synthesized_var_for_JKFF_inst17'
+Slack : 0.412
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'CONTADORTRC:inst|synthesized_var_for_SYNTHESIZED_WIRE_20'
+Slack : 0.413
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'clk'
+Slack : 0.557
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'CONTADORTRC:inst|synthesized_var_for_JKFF_inst3'
+Slack : 0.624
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'clk'
+Slack : -0.317
+TNS   : -0.317
+
+Type  : Fast 1200mV 0C Model Hold 'CONTADORTRC:inst|synthesized_var_for_SYNTHESIZED_WIRE_20'
+Slack : -0.135
+TNS   : -0.135
+
+Type  : Fast 1200mV 0C Model Hold 'CONTADORTRC:inst|synthesized_var_for_JKFF_inst17'
+Slack : -0.025
+TNS   : -0.025
+
+Type  : Fast 1200mV 0C Model Hold 'CONTADORTRC:inst|synthesized_var_for_JKFF_inst3'
+Slack : 0.206
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'CONTADORTRC:inst|synthesized_var_for_JKFF_inst3'
+Slack : -0.156
+TNS   : -0.156
+
+Type  : Fast 1200mV 0C Model Recovery 'CONTADORTRC:inst|synthesized_var_for_JKFF_inst17'
+Slack : -0.081
+TNS   : -0.081
+
+Type  : Fast 1200mV 0C Model Recovery 'CONTADORTRC:inst|synthesized_var_for_SYNTHESIZED_WIRE_20'
+Slack : 0.036
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'clk'
+Slack : 0.933
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'clk'
+Slack : -0.924
+TNS   : -0.924
+
+Type  : Fast 1200mV 0C Model Removal 'CONTADORTRC:inst|synthesized_var_for_SYNTHESIZED_WIRE_20'
+Slack : 0.019
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'CONTADORTRC:inst|synthesized_var_for_JKFF_inst17'
+Slack : 0.146
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'CONTADORTRC:inst|synthesized_var_for_JKFF_inst3'
+Slack : 0.227
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -4.147
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CONTADORTRC:inst|synthesized_var_for_JKFF_inst17'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CONTADORTRC:inst|synthesized_var_for_JKFF_inst3'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CONTADORTRC:inst|synthesized_var_for_SYNTHESIZED_WIRE_20'
+Slack : -1.000
+TNS   : -1.000
+
+------------------------------------------------------------
